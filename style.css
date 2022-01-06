@@ -111,6 +111,8 @@ margin-right: 40px;
 #flexi{
     display: flex;
     margin-top: 40px;
+    margin-right: 80px;
+    
 
 background-image: url(images/shapes/shape-1.png);
 background-repeat: no-repeat;
@@ -119,8 +121,8 @@ background-size: 200px;
 }
 
 #img img{
-    height: 300px;
-    width: 400px;
-    margin-right: 100px;
+    height: 350px;
+    width: 450px;
+    margin-right: 80px;
     margin-left: 80px;
 }
