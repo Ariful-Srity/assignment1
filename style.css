@@ -121,12 +121,10 @@ margin-right: 40px;
 .img img{
     height: 350px;
     width: 450px;
-    margin-right: 80px;
-    margin-left: 80px;
-}
-#position{
+    margin-right: 60px;
     background-image: url(images/shapes/shape-1.png);
+    background-position: left;
     background-repeat: no-repeat;
-    background-position-y: right;
-    background-size: 200px;
+    margin-left: 80px;
+    
 }
