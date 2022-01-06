@@ -112,19 +112,32 @@ margin-right: 40px;
     display: flex;
     margin-top: 40px;
     margin-right: 80px;
-    
-
-
+background-image: url(images/shapes/shape-1.png);     
+background-repeat: no-repeat;
+background-size: 250px;
+background-position: left;
 
 }
 
 .img img{
     height: 350px;
     width: 450px;
-    margin-right: 60px;
-    background-image: url(images/shapes/shape-1.png);
-    background-position: left;
-    background-repeat: no-repeat;
-    margin-left: 80px;
+    margin-right: 40px;
     
+    margin-left: 80px;
+    padding-bottom: 10px;
+    
+}
+.flexi1{
+    display: flex;
+    margin-top: 100px;
+    margin-right: 50px;
+background-image: url(images/shapes/shape-1.png);     
+background-repeat: no-repeat;
+background-size: 250px;
+
+
+
+background-position: right -1%  bottom -30%;
+
 }
