@@ -131,7 +131,7 @@ background-position: left;
 }
 .flexi1{
     display: flex;
-    margin-top: 100px;
+    margin-top: 80px;
     margin-right: 50px;
 background-image: url(images/shapes/shape-1.png);     
 background-repeat: no-repeat;
@@ -142,9 +142,31 @@ background-size: 180px;
 background-position: right 1%  bottom 2%;
 
 }
-.text-area{
-fo
+.text-area h1{
+font-size: 35px;
 
-
+text-justify: auto;
 
 }
+.footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: rgb(134, 128, 128);
+    text-align: center;
+    height: 200px;
+    padding-top: 50px;
+    
+}
+.footer1{
+
+    font-family: 'Lobster Two', cursive;
+color: white;
+}
+.color{
+    color: tomato;
+    
+}
+
+
+
+
