@@ -76,34 +76,51 @@ padding: 2%;
     padding-right: 60px;
 }
 .img-size{
-height: 150px;
-width: 200px;
+height: 100px;
+width: 120px;
+padding-top: 10px;
 
 
 }
 .mission{
 background-color: rgba(127, 255, 212, 0.582);
-margin-right: 30px;
+width: 33.33%;
 padding-left: 20px;
-
+margin-right: 40px;
 border-radius: 15px;
+
 
 }
 .vission{
 background-color: darkgoldenrod;
-    margin-right: 10px; 
+    width: 33.33%;
     border-radius: 15px;
     padding-left: 20px;
-    
+    margin-right: 40px;
 }
 .goal{
-    margin-left: 30px;
-    margin-right: 10px;
-    background-color: rgb(red, green, blue);
-    border-radius: 20px;
-    padding-left: 20px;
+background-color: rebeccapurple;
+width: 33.33%;
+border-radius: 15px;
+padding-left: 20px;
+margin-right: 40px;
+
 
 }
 
+#flexi{
+    display: flex;
+    margin-top: 40px;
 
+background-image: url(images/shapes/shape-1.png);
+background-repeat: no-repeat;
+background-position: left;
+background-size: 200px;
+}
 
+#img img{
+    height: 300px;
+    width: 400px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
