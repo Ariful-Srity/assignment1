@@ -108,21 +108,25 @@ margin-right: 40px;
 
 }
 
-#flexi{
+.flexi{
     display: flex;
     margin-top: 40px;
     margin-right: 80px;
     
 
-background-image: url(images/shapes/shape-1.png);
-background-repeat: no-repeat;
-background-position: left;
-background-size: 200px;
+
+
 }
 
-#img img{
+.img img{
     height: 350px;
     width: 450px;
     margin-right: 80px;
     margin-left: 80px;
+}
+#position{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position-y: right;
+    background-size: 200px;
 }
