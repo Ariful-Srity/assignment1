@@ -87,10 +87,10 @@ margin-right: 30px;
 padding-left: 20px;
 
 border-radius: 15px;
-width
+
 }
 .vission{
-    background-color: cadetblue;
+background-color: darkgoldenrod;
     margin-right: 10px; 
     border-radius: 15px;
     padding-left: 20px;
@@ -99,7 +99,7 @@ width
 .goal{
     margin-left: 30px;
     margin-right: 10px;
-    background-color: cornsilk;
+    background-color: rgb(red, green, blue);
     border-radius: 20px;
     padding-left: 20px;
 
