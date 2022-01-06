@@ -70,6 +70,7 @@ padding: 2%;
     font-size: 50px;
 }
 .flexiable{
+    
     display: flex;
     padding-left: 90px;
     padding-right: 60px;
@@ -82,22 +83,22 @@ width: 200px;
 }
 .mission{
 background-color: rgba(127, 255, 212, 0.582);
-margin-left: 
+margin-right: 30px;
 padding-left: 20px;
 
 border-radius: 15px;
-
+width
 }
 .vission{
     background-color: cadetblue;
-    margin-left: 
+    margin-right: 10px; 
     border-radius: 15px;
     padding-left: 20px;
     
 }
 .goal{
     margin-left: 30px;
-    margin-right: 
+    margin-right: 10px;
     background-color: cornsilk;
     border-radius: 20px;
     padding-left: 20px;
