@@ -110,12 +110,13 @@ margin-right: 40px;
 
 .flexi{
     display: flex;
-    margin-top: 40px;
+    margin-top: 100px;
     margin-right: 80px;
 background-image: url(images/shapes/shape-1.png);     
 background-repeat: no-repeat;
 background-size: 180px;
 background-position: left;
+
 
 }
 
@@ -139,5 +140,11 @@ background-size: 180px;
 
 
 background-position: right 1%  bottom 2%;
+
+}
+.text-area{
+fo
+
+
 
 }
