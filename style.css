@@ -1,12 +1,12 @@
 .flex{
     display: flex;
-    
+    margin: 10px;
     
 }
 .img{
-    padding-left: 30px;
-height: 50%;
-width: 80%
+
+height: 90%;
+width: 80%;
 
 
 }
@@ -21,14 +21,35 @@ color:white;
 
 
 }
-h1{
+.heading{
     font-family: 'Merriweather', serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Vidaloka', serif; 
     font-size:55px;
+    color: rgb(245, 177, 7);
     
 }
+.heading1{
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Vidaloka', serif; 
+    font-size:55px;
 
+
+}
+
+
+
+
+.half-width{
+width: 50%;
+padding: 2%;
+
+
+}
+.paragraph{
+    font-size: 20px;
+}
 
 
 
