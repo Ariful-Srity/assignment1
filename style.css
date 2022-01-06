@@ -148,6 +148,38 @@ font-size: 35px;
 text-justify: auto;
 
 }
+h1{
+    font-size: 50px;
+    
+    }
+    .color{
+        color: orange;
+    }
+    .main{
+        display: flex;
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+        padding-bottom: 40px;
+    
+    }
+    .width{
+        width: 50%;
+        padding-left: 80px;
+    }
+    .width img{
+        width: 80%;
+    }
+    .bn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    
+    }
+
+
+
 .footer{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: black;
